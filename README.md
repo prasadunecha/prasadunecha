@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Prasad Unecha
+- 👋 Hi, I’m Prasad Unecha🚩🙏
+- 🚩 आपल्यसाथी सगल छान आहे पन हृदयात फक्त छत्रपती शिवाजी महाराजांचं स्थान आहे! 
 - 👀 I’m interested in Coding related stuff's like AI development etc
 - 🌱 I’m currently learning c++, python and react
 - 💞️ I’m looking to collaborate on AI related projects
