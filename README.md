@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prasad Unecha🚩🙏
-- 👀 I’m interested in Coding related stuff's like AI development etc
-- 🌱 I’m currently learning c++, python and react
-- 💞️ I’m looking to collaborate on AI related projects
+- 👀 I’m interested in Coding related stuff's like problem solving, to solve challenging questions and development in A.I
+- 🌱 I’m currently practicing DSA and competitive programing on platforms like CodeChef and LeetCode
+- 💞️ I’m looking to collaborate on A.I and DSA related projects
 - 📫 Reach me by sending Mail : prasadunecha16@gmail.com Or just 
      Message me on linkedin: https://www.linkedin.com/in/prasad-unecha-285608204/
 
